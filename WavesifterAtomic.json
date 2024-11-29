@@ -1,0 +1,102 @@
+{"meta": {"date": "2024-11-17", "version": "5.2.2+20241117"},
+ "data": {"Wavesifter": [
+  {
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "colors": [
+      "G",
+      "U"
+    ],
+    "convertedManaCost": 5.0,
+    "edhrecRank": 7120,
+    "firstPrinting": "MH2",
+    "foreignData": [
+      {
+        "language": "German",
+        "name": "Wellenstöberer",
+        "text": "Fliegend\nWenn der Wellenstöberer ins Spiel kommt, stelle zweimal Nachforschungen an. (Um Nachforschungen anzustellen, erzeuge einen Hinweis-Spielstein. Er ist ein Artefakt mit „{2}, opfere dieses Artefakt: Ziehe eine Karte.\")\nHerbeirufen {G}{U} (Du kannst diesen Zauberspruch für seine Herbeirufungskosten wirken. Falls du dies tust, wird die Kreatur geopfert, wenn sie ins Spiel kommt.)",
+        "type": "Kreatur — Elementarwesen"
+      },
+      {
+        "language": "French",
+        "name": "Tamiseur de vagues",
+        "text": "Vol\nQuand le Tamiseur de vagues arrive sur le champ de bataille, enquêtez deux fois. (Pour enquêter, créez un jeton Indice. C'est un artefact avec « {2}, sacrifiez cet artefact : Piochez une carte. »)\nÉvocation {G}{U} (Vous pouvez lancer ce sort pour son coût d'évocation. Si vous faites ainsi, il est sacrifié quand il arrive sur le champ de bataille.)",
+        "type": "Créature — élémental"
+      },
+      {
+        "language": "Italian",
+        "name": "Setacciaonde",
+        "text": "Volare\nQuando il Setacciaonde entra nel campo di battaglia, indaga due volte. (Per indagare, crea una pedina Indizio. È un artefatto con \"{2}, Sacrifica questo artefatto: Pesca una carta\".)\nApparire {G}{U} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)",
+        "type": "Creatura — Elementale"
+      },
+      {
+        "language": "Japanese",
+        "name": "波ふるい",
+        "text": "飛行\n波ふるいが戦場に出たとき、２回調査を行う。（調査を行うとは、手掛かり・トークン１つを生成することである。それは、「{2},このアーティファクトを生け贄に捧げる：カード１枚を引く。」を持つアーティファクトである。）\n想起{G}{U}（あなたはこの呪文を想起コストで唱えてもよい。そうしたなら、これが戦場に出たとき、これを生け贄に捧げる。）",
+        "type": "クリーチャー — エレメンタル"
+      }
+    ],
+    "identifiers": {
+      "scryfallOracleId": "d1ec1e4e-faa6-4afc-9e00-a3327105c11b"
+    },
+    "keywords": [
+      "Evoke",
+      "Flying",
+      "Investigate"
+    ],
+    "layout": "normal",
+    "legalities": {
+      "brawl": "Legal",
+      "commander": "Legal",
+      "duel": "Legal",
+      "gladiator": "Legal",
+      "historic": "Legal",
+      "legacy": "Legal",
+      "modern": "Legal",
+      "oathbreaker": "Legal",
+      "pauper": "Legal",
+      "paupercommander": "Legal",
+      "penny": "Legal",
+      "timeless": "Legal",
+      "vintage": "Legal"
+    },
+    "manaCost": "{3}{G}{U}",
+    "manaValue": 5.0,
+    "name": "Wavesifter",
+    "power": "3",
+    "printings": [
+      "J21",
+      "MH2",
+      "MKC"
+    ],
+    "purchaseUrls": {},
+    "rulings": [
+      {
+        "date": "2021-06-18",
+        "text": "The token is named Clue Token and has the artifact subtype Clue. Clue isn't a creature type."
+      },
+      {
+        "date": "2021-06-18",
+        "text": "The tokens are normal artifacts. For example, one can be sacrificed to activate the ability of Breya's Apprentice and one can be the target of Break Ties."
+      },
+      {
+        "date": "2021-06-18",
+        "text": "You can't sacrifice a Clue to activate its own ability and also to activate another ability that requires sacrificing a Clue (or any artifact) as a cost, such as that of Lonis, Cryptozoologist."
+      }
+    ],
+    "subtypes": [
+      "Elemental"
+    ],
+    "supertypes": [],
+    "text": "Flying\nWhen Wavesifter enters, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this artifact: Draw a card.\")\nEvoke {G}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+    "toughness": "2",
+    "type": "Creature — Elemental",
+    "types": [
+      "Creature"
+    ]
+  }
+]
+}
+}

@@ -1,0 +1,783 @@
+{
+  "artist": "Johann Bodin",
+  "artistIds": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "availability": [
+    "mtgo",
+    "paper"
+  ],
+  "boosterTypes": [
+    "default"
+  ],
+  "borderColor": "black",
+  "colorIdentity": [
+    "G",
+    "R"
+  ],
+  "colors": [
+    "G"
+  ],
+  "convertedManaCost": 6.0,
+  "edhrecRank": 8555,
+  "faceConvertedManaCost": 3.0,
+  "faceManaValue": 3.0,
+  "faceName": "Road",
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "foreignData": [
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "522549",
+        "scryfallId": "aeb34718-954a-4338-bd8e-136894c2dd59"
+      },
+      "language": "German",
+      "multiverseId": 522549,
+      "name": "Road // Ruin",
+      "text": "Durchsuche deine Bibliothek nach einer Standardland-Karte, bringe sie getappt ins Spiel und mische danach.",
+      "type": "Spontanzauber"
+    },
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "523332",
+        "scryfallId": "3b1c1ab9-c651-40d3-86fb-9a6893084cc9"
+      },
+      "language": "Italian",
+      "multiverseId": 523332,
+      "name": "Road // Ruin",
+      "text": "Passa in rassegna il tuo grimorio per una carta terra base, mettila sul campo di battaglia TAPpata, poi rimescola.",
+      "type": "Istantaneo"
+    },
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "523854",
+        "scryfallId": "1fadc694-d90a-44db-8680-417b1b3a4e6a"
+      },
+      "language": "Korean",
+      "multiverseId": 523854,
+      "name": "Road // Ruin",
+      "text": "당신의 서고에서 기본 대지 카드를 찾아, 그 카드를 전장에 탭된 채로 놓은 후, 서고를 섞는다.",
+      "type": "순간마법"
+    }
+  ],
+  "frameVersion": "2015",
+  "hasFoil": true,
+  "hasNonFoil": true,
+  "identifiers": {
+    "cardKingdomFoilId": "246891",
+    "cardKingdomId": "246226",
+    "cardsphereFoilId": "77586",
+    "cardsphereId": "77577",
+    "mcmId": "566263",
+    "mcmMetaId": "341489",
+    "mtgjsonV4Id": "9f481ec2-816c-5456-8b5b-6e37785f968f",
+    "mtgoId": "90805",
+    "multiverseId": "522288",
+    "scryfallCardBackId": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "scryfallId": "f336b4d4-9a84-4a87-a8ea-a83a842890ee",
+    "scryfallIllustrationId": "7eaf0850-0e17-4598-b183-1718e37c53f9",
+    "scryfallOracleId": "f18d8939-7ee8-4a44-a1c8-6ae3a08f52fd",
+    "tcgplayerProductId": "239709"
+  },
+  "language": "English",
+  "layout": "aftermath",
+  "legalities": {
+    "commander": "Legal",
+    "duel": "Legal",
+    "legacy": "Legal",
+    "modern": "Legal",
+    "oathbreaker": "Legal",
+    "vintage": "Legal"
+  },
+  "manaCost": "{2}{G}",
+  "manaValue": 6.0,
+  "name": "Road // Ruin",
+  "number": "212",
+  "otherFaceIds": [
+    "32f25efe-29ab-5926-a6e8-ebe09c8c26cc"
+  ],
+  "printings": [
+    "MH2"
+  ],
+  "purchaseUrls": {
+    "cardKingdom": "https://mtgjson.com/links/cc3fe1ab7691e999",
+    "cardKingdomFoil": "https://mtgjson.com/links/583e59c56eaa080b",
+    "cardmarket": "https://mtgjson.com/links/4b6a28d8a55ebd13",
+    "tcgplayer": "https://mtgjson.com/links/4bfe14c2982baa56"
+  },
+  "rarity": "uncommon",
+  "rulings": [
+    {
+      "date": "2021-06-18",
+      "text": "A spell with aftermath cast from a graveyard will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "All split cards have two card faces on a single card, and you put a split card onto the stack with only the half you're casting. The characteristics of the half you didn't cast are ignored while the spell is on the stack. For example, if an effect prevents you from casting red spells, you can cast Road, but not Ruin."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card has two names. If an effect instructs you to choose a card name, you may choose one, but not both."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card is a single card. For example, if you discard one, you've discarded one card, not two. If an effect counts the number of instant and sorcery cards in your graveyard, Road /// Ruin counts once, not twice."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from a graveyard, you may cast either half. If you cast the half that has aftermath, you'll exile the card if it would leave the stack."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from any zone other than a graveyard, you can't cast the half with aftermath."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If you cast the first half of a split card with aftermath during your turn, you'll have priority immediately after it resolves. You can cast the half with aftermath from your graveyard before any player can take any other action if it's legal for you to do so."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Once you've started to cast a spell with aftermath from your graveyard, the card is immediately moved to the stack. Opponents can't try to stop the ability by exiling the card with another effect."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "While not on the stack, the characteristics of a split card are the combination of its two halves. For example, Road /// Ruin is a green and red card, it is both an instant card and a sorcery card, and its mana value is 6."
+    }
+  ],
+  "setCode": "MH2",
+  "side": "a",
+  "sourceProducts": {
+    "foil": [
+      "16d143d9-e957-54bc-8344-87a7ed85666d",
+      "1fc1a634-d083-59eb-8194-2e6da14e912e",
+      "ad26d972-c187-5109-ba88-301a89762c34"
+    ],
+    "nonfoil": [
+      "1fc1a634-d083-59eb-8194-2e6da14e912e",
+      "ad26d972-c187-5109-ba88-301a89762c34"
+    ]
+  },
+  "subtypes": [],
+  "supertypes": [],
+  "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "uuid": "d0245e59-81bc-58ec-974d-49f6335d7568",
+  "variations": [
+    "dd1061df-c0f4-5059-8f04-d7c8a9f57fd9"
+  ]
+}
+{
+  "artist": "Johann Bodin",
+  "artistIds": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "availability": [
+    "mtgo",
+    "paper"
+  ],
+  "boosterTypes": [
+    "default"
+  ],
+  "borderColor": "black",
+  "colorIdentity": [
+    "G",
+    "R"
+  ],
+  "colors": [
+    "R"
+  ],
+  "convertedManaCost": 6.0,
+  "edhrecRank": 8555,
+  "faceConvertedManaCost": 3.0,
+  "faceManaValue": 3.0,
+  "faceName": "Ruin",
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "foreignData": [
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "522549",
+        "scryfallId": "aeb34718-954a-4338-bd8e-136894c2dd59"
+      },
+      "language": "German",
+      "multiverseId": 522549,
+      "name": "Road // Ruin",
+      "text": "Nachhall (Wirke diesen Zauberspruch nur aus deinem Friedhof. Schicke ihn danach ins Exil.)\nDer Ruin fügt einer Kreatur deiner Wahl so viele Schadenspunkte zu, wie du Länder kontrollierst.",
+      "type": "Hexerei"
+    },
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "523332",
+        "scryfallId": "3b1c1ab9-c651-40d3-86fb-9a6893084cc9"
+      },
+      "language": "Italian",
+      "multiverseId": 523332,
+      "name": "Road // Ruin",
+      "text": "Conseguenze (Lancia questa magia solo dal tuo cimitero. Poi esiliala.)\nLa Sventura infligge a una creatura bersaglio danno pari al numero di terre che controlli.",
+      "type": "Stregoneria"
+    },
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "523854",
+        "scryfallId": "1fadc694-d90a-44db-8680-417b1b3a4e6a"
+      },
+      "language": "Korean",
+      "multiverseId": 523854,
+      "name": "Road // Ruin",
+      "text": "여파 (당신의 무덤에서만 이 주문을 발동할 수 있다. 그 후 이 카드를 추방한다.)\n생물을 목표로 정한다. 폐허는 그 생물에게 당신이 조종하는 대지의 수만큼 피해를 입힌다.",
+      "type": "집중마법"
+    }
+  ],
+  "frameVersion": "2015",
+  "hasFoil": true,
+  "hasNonFoil": true,
+  "identifiers": {
+    "cardsphereFoilId": "77586",
+    "cardsphereId": "77577",
+    "mcmId": "566263",
+    "mcmMetaId": "341489",
+    "mtgjsonV4Id": "d844530c-ebdc-5e74-bf3c-b2ab5828cf3c",
+    "mtgoId": "90805",
+    "multiverseId": "522288",
+    "scryfallCardBackId": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "scryfallId": "f336b4d4-9a84-4a87-a8ea-a83a842890ee",
+    "scryfallIllustrationId": "7eaf0850-0e17-4598-b183-1718e37c53f9",
+    "scryfallOracleId": "f18d8939-7ee8-4a44-a1c8-6ae3a08f52fd",
+    "tcgplayerProductId": "239709"
+  },
+  "keywords": [
+    "Aftermath"
+  ],
+  "language": "English",
+  "layout": "aftermath",
+  "legalities": {
+    "commander": "Legal",
+    "duel": "Legal",
+    "legacy": "Legal",
+    "modern": "Legal",
+    "oathbreaker": "Legal",
+    "vintage": "Legal"
+  },
+  "manaCost": "{1}{R}{R}",
+  "manaValue": 6.0,
+  "name": "Road // Ruin",
+  "number": "212",
+  "otherFaceIds": [
+    "d0245e59-81bc-58ec-974d-49f6335d7568"
+  ],
+  "printings": [
+    "MH2"
+  ],
+  "purchaseUrls": {
+    "cardmarket": "https://mtgjson.com/links/89953daf8f5f768b",
+    "tcgplayer": "https://mtgjson.com/links/0ac26f3cde831e32"
+  },
+  "rarity": "uncommon",
+  "rulings": [
+    {
+      "date": "2021-06-18",
+      "text": "A spell with aftermath cast from a graveyard will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "All split cards have two card faces on a single card, and you put a split card onto the stack with only the half you're casting. The characteristics of the half you didn't cast are ignored while the spell is on the stack. For example, if an effect prevents you from casting red spells, you can cast Road, but not Ruin."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card has two names. If an effect instructs you to choose a card name, you may choose one, but not both."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card is a single card. For example, if you discard one, you've discarded one card, not two. If an effect counts the number of instant and sorcery cards in your graveyard, Road /// Ruin counts once, not twice."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from a graveyard, you may cast either half. If you cast the half that has aftermath, you'll exile the card if it would leave the stack."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from any zone other than a graveyard, you can't cast the half with aftermath."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If you cast the first half of a split card with aftermath during your turn, you'll have priority immediately after it resolves. You can cast the half with aftermath from your graveyard before any player can take any other action if it's legal for you to do so."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Once you've started to cast a spell with aftermath from your graveyard, the card is immediately moved to the stack. Opponents can't try to stop the ability by exiling the card with another effect."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "While not on the stack, the characteristics of a split card are the combination of its two halves. For example, Road /// Ruin is a green and red card, it is both an instant card and a sorcery card, and its mana value is 6."
+    }
+  ],
+  "setCode": "MH2",
+  "side": "b",
+  "subtypes": [],
+  "supertypes": [],
+  "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nRuin deals damage to target creature equal to the number of lands you control.",
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "uuid": "32f25efe-29ab-5926-a6e8-ebe09c8c26cc",
+  "variations": [
+    "28d5a9ff-b2ec-5d4b-9ae5-8ab1bff853d0"
+  ]
+}
+{
+  "artist": "Johann Bodin",
+  "artistIds": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "availability": [
+    "mtgo",
+    "paper"
+  ],
+  "borderColor": "black",
+  "colorIdentity": [
+    "G",
+    "R"
+  ],
+  "colors": [
+    "G"
+  ],
+  "convertedManaCost": 6.0,
+  "edhrecRank": 8555,
+  "faceConvertedManaCost": 3.0,
+  "faceManaValue": 3.0,
+  "faceName": "Road",
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "foreignData": [
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "526852",
+        "scryfallId": "45bae8e2-4355-4038-b36d-d9ef49333738"
+      },
+      "language": "Spanish",
+      "multiverseId": 526852,
+      "name": "Road // Ruin",
+      "text": "Busca en tu biblioteca una carta de tierra básica, ponla en el campo de batalla girada y luego baraja.",
+      "type": "Instantáneo"
+    },
+    {
+      "faceName": "Route",
+      "identifiers": {
+        "multiverseId": "526906",
+        "scryfallId": "a54d073a-f601-4963-8ed4-e179787a1c7f"
+      },
+      "language": "French",
+      "multiverseId": 526906,
+      "name": "Route // Vestiges",
+      "text": "Cherchez dans votre bibliothèque une carte de terrain de base, mettez-la sur le champ de bataille engagée, puis mélangez.",
+      "type": "Éphémère"
+    },
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "526960",
+        "scryfallId": "989aa734-6592-4f31-9c99-7336b7b6c068"
+      },
+      "language": "Italian",
+      "multiverseId": 526960,
+      "name": "Road // Ruin",
+      "text": "Passa in rassegna il tuo grimorio per una carta terra base, mettila sul campo di battaglia TAPpata, poi rimescola.",
+      "type": "Istantaneo"
+    },
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "523593",
+        "scryfallId": "cc0d962a-55c4-4000-a900-5991ae3cf115"
+      },
+      "language": "Japanese",
+      "multiverseId": 523593,
+      "name": "Road // Ruin",
+      "text": "あなたのライブラリーから基本土地・カード１枚を探し、タップ状態で戦場に出す。その後、ライブラリーを切り直す。",
+      "type": "インスタント"
+    },
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "524115",
+        "scryfallId": "dbdb96b0-33bb-41db-9923-9567563d49b4"
+      },
+      "language": "Portuguese (Brazil)",
+      "multiverseId": 524115,
+      "name": "Road // Ruin",
+      "text": "Procure em seu grimório um card de terreno básico, coloque-o no campo de batalha virado e depois embaralhe.",
+      "type": "Mágica Instantânea"
+    },
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "527176",
+        "scryfallId": "35f6e8ab-5c1c-4f32-9b12-4b18f56a5970"
+      },
+      "language": "Russian",
+      "multiverseId": 527176,
+      "name": "Road // Ruin",
+      "text": "Найдите в вашей библиотеке карту базовой земли, положите ее на поле битвы повернутой, затем перетасуйте библиотеку.",
+      "type": "Мгновенное заклинание"
+    },
+    {
+      "faceName": "Road",
+      "identifiers": {
+        "multiverseId": "524898",
+        "scryfallId": "6ab357d2-88fb-4f08-8bb1-3052362c619d"
+      },
+      "language": "Chinese Traditional",
+      "multiverseId": 524898,
+      "name": "Road // Ruin",
+      "text": "從你的牌庫中搜尋一張基本地牌，將之橫置放進戰場，然後洗牌。",
+      "type": "瞬間"
+    }
+  ],
+  "frameEffects": [
+    "showcase"
+  ],
+  "frameVersion": "2015",
+  "hasFoil": true,
+  "hasNonFoil": true,
+  "identifiers": {
+    "cardKingdomFoilId": "246705",
+    "cardKingdomId": "246300",
+    "cardsphereFoilId": "78366",
+    "cardsphereId": "78365",
+    "mcmId": "566264",
+    "mcmMetaId": "341489",
+    "mtgjsonV4Id": "3654315f-959e-5197-9ff1-2e4b150f48ea",
+    "multiverseId": "526744",
+    "scryfallCardBackId": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "scryfallId": "edf8a080-2327-4ae0-97bc-ed488a619797",
+    "scryfallIllustrationId": "d3a68f9a-1a2e-429f-9911-a450800422cb",
+    "scryfallOracleId": "f18d8939-7ee8-4a44-a1c8-6ae3a08f52fd",
+    "tcgplayerProductId": "239710"
+  },
+  "isStarter": true,
+  "language": "English",
+  "layout": "aftermath",
+  "legalities": {
+    "commander": "Legal",
+    "duel": "Legal",
+    "legacy": "Legal",
+    "modern": "Legal",
+    "oathbreaker": "Legal",
+    "vintage": "Legal"
+  },
+  "manaCost": "{2}{G}",
+  "manaValue": 6.0,
+  "name": "Road // Ruin",
+  "number": "376",
+  "otherFaceIds": [
+    "28d5a9ff-b2ec-5d4b-9ae5-8ab1bff853d0"
+  ],
+  "printings": [
+    "MH2"
+  ],
+  "promoTypes": [
+    "boosterfun"
+  ],
+  "purchaseUrls": {
+    "cardKingdom": "https://mtgjson.com/links/4c8a718c40d89c60",
+    "cardKingdomFoil": "https://mtgjson.com/links/44669416e40a73d3",
+    "cardmarket": "https://mtgjson.com/links/1aa5c59582951185",
+    "tcgplayer": "https://mtgjson.com/links/15e35dfc51e165ef"
+  },
+  "rarity": "uncommon",
+  "rulings": [
+    {
+      "date": "2021-06-18",
+      "text": "A spell with aftermath cast from a graveyard will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "All split cards have two card faces on a single card, and you put a split card onto the stack with only the half you're casting. The characteristics of the half you didn't cast are ignored while the spell is on the stack. For example, if an effect prevents you from casting red spells, you can cast Road, but not Ruin."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card has two names. If an effect instructs you to choose a card name, you may choose one, but not both."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card is a single card. For example, if you discard one, you've discarded one card, not two. If an effect counts the number of instant and sorcery cards in your graveyard, Road /// Ruin counts once, not twice."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from a graveyard, you may cast either half. If you cast the half that has aftermath, you'll exile the card if it would leave the stack."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from any zone other than a graveyard, you can't cast the half with aftermath."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If you cast the first half of a split card with aftermath during your turn, you'll have priority immediately after it resolves. You can cast the half with aftermath from your graveyard before any player can take any other action if it's legal for you to do so."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Once you've started to cast a spell with aftermath from your graveyard, the card is immediately moved to the stack. Opponents can't try to stop the ability by exiling the card with another effect."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "While not on the stack, the characteristics of a split card are the combination of its two halves. For example, Road /// Ruin is a green and red card, it is both an instant card and a sorcery card, and its mana value is 6."
+    }
+  ],
+  "setCode": "MH2",
+  "side": "a",
+  "sourceProducts": {
+    "foil": [
+      "16d143d9-e957-54bc-8344-87a7ed85666d",
+      "1fc1a634-d083-59eb-8194-2e6da14e912e",
+      "ad26d972-c187-5109-ba88-301a89762c34"
+    ],
+    "nonfoil": [
+      "16d143d9-e957-54bc-8344-87a7ed85666d",
+      "1fc1a634-d083-59eb-8194-2e6da14e912e",
+      "ad26d972-c187-5109-ba88-301a89762c34"
+    ]
+  },
+  "subtypes": [],
+  "supertypes": [],
+  "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "uuid": "dd1061df-c0f4-5059-8f04-d7c8a9f57fd9",
+  "variations": [
+    "d0245e59-81bc-58ec-974d-49f6335d7568"
+  ]
+}
+{
+  "artist": "Johann Bodin",
+  "artistIds": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "availability": [
+    "mtgo",
+    "paper"
+  ],
+  "borderColor": "black",
+  "colorIdentity": [
+    "G",
+    "R"
+  ],
+  "colors": [
+    "R"
+  ],
+  "convertedManaCost": 6.0,
+  "edhrecRank": 8555,
+  "faceConvertedManaCost": 3.0,
+  "faceManaValue": 3.0,
+  "faceName": "Ruin",
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "foreignData": [
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "526852",
+        "scryfallId": "45bae8e2-4355-4038-b36d-d9ef49333738"
+      },
+      "language": "Spanish",
+      "multiverseId": 526852,
+      "name": "Road // Ruin",
+      "text": "Secuela. (Lanza este hechizo solo desde tu cementerio. Luego exílialo.)\nDesastre hace una cantidad de daño a la criatura objetivo igual a la cantidad de tierras que controlas.",
+      "type": "Conjuro"
+    },
+    {
+      "faceName": "Vestiges",
+      "identifiers": {
+        "multiverseId": "526906",
+        "scryfallId": "a54d073a-f601-4963-8ed4-e179787a1c7f"
+      },
+      "language": "French",
+      "multiverseId": 526906,
+      "name": "Route // Vestiges",
+      "text": "Répercussion (Ne lancez ce sort que depuis votre cimetière. Exilez-le ensuite.)\nLes Vestiges infligent à une créature ciblée un nombre de blessures égal au nombre de terrains que vous contrôlez.",
+      "type": "Rituel"
+    },
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "526960",
+        "scryfallId": "989aa734-6592-4f31-9c99-7336b7b6c068"
+      },
+      "language": "Italian",
+      "multiverseId": 526960,
+      "name": "Road // Ruin",
+      "text": "Conseguenze (Lancia questa magia solo dal tuo cimitero. Poi esiliala.)\nLa Sventura infligge a una creatura bersaglio danno pari al numero di terre che controlli.",
+      "type": "Stregoneria"
+    },
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "523593",
+        "scryfallId": "cc0d962a-55c4-4000-a900-5991ae3cf115"
+      },
+      "language": "Japanese",
+      "multiverseId": 523593,
+      "name": "Road // Ruin",
+      "text": "余波（この呪文はあなたの墓地からのみ唱えられる。その後、これを追放する。）\nクリーチャー１体を対象とする。瓦解はそれに、あなたがコントロールしている土地の数に等しい点数のダメージを与える。",
+      "type": "ソーサリー"
+    },
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "524115",
+        "scryfallId": "dbdb96b0-33bb-41db-9923-9567563d49b4"
+      },
+      "language": "Portuguese (Brazil)",
+      "multiverseId": 524115,
+      "name": "Road // Ruin",
+      "text": "Consequências (Conjure esta mágica somente de seu cemitério. Depois, exile-a.)\nRuína causa à criatura alvo dano igual ao número de terrenos que você controla.",
+      "type": "Feitiço"
+    },
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "527176",
+        "scryfallId": "35f6e8ab-5c1c-4f32-9b12-4b18f56a5970"
+      },
+      "language": "Russian",
+      "multiverseId": 527176,
+      "name": "Road // Ruin",
+      "text": "Последствия (Разыгрывайте это заклинание только из вашего кладбища. Затем изгоните его.)\nРазрушения наносят целевому существу повреждения, равные количеству земель под вашим контролем.",
+      "type": "Волшебство"
+    },
+    {
+      "faceName": "Ruin",
+      "identifiers": {
+        "multiverseId": "524898",
+        "scryfallId": "6ab357d2-88fb-4f08-8bb1-3052362c619d"
+      },
+      "language": "Chinese Traditional",
+      "multiverseId": 524898,
+      "name": "Road // Ruin",
+      "text": "餘響（此咒語只能從你的墳墓場中施放。然後將它放逐。）\n廢墟對目標生物造成傷害，其數量等同於由你操控的地數量。",
+      "type": "巫術"
+    }
+  ],
+  "frameEffects": [
+    "showcase"
+  ],
+  "frameVersion": "2015",
+  "hasFoil": true,
+  "hasNonFoil": true,
+  "identifiers": {
+    "cardsphereFoilId": "78366",
+    "cardsphereId": "78365",
+    "mcmId": "566264",
+    "mcmMetaId": "341489",
+    "mtgjsonV4Id": "a2fe5d84-c232-5c22-95ae-1f1119db6c4a",
+    "multiverseId": "526744",
+    "scryfallCardBackId": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "scryfallId": "edf8a080-2327-4ae0-97bc-ed488a619797",
+    "scryfallIllustrationId": "d3a68f9a-1a2e-429f-9911-a450800422cb",
+    "scryfallOracleId": "f18d8939-7ee8-4a44-a1c8-6ae3a08f52fd",
+    "tcgplayerProductId": "239710"
+  },
+  "isStarter": true,
+  "keywords": [
+    "Aftermath"
+  ],
+  "language": "English",
+  "layout": "aftermath",
+  "legalities": {
+    "commander": "Legal",
+    "duel": "Legal",
+    "legacy": "Legal",
+    "modern": "Legal",
+    "oathbreaker": "Legal",
+    "vintage": "Legal"
+  },
+  "manaCost": "{1}{R}{R}",
+  "manaValue": 6.0,
+  "name": "Road // Ruin",
+  "number": "376",
+  "otherFaceIds": [
+    "dd1061df-c0f4-5059-8f04-d7c8a9f57fd9"
+  ],
+  "printings": [
+    "MH2"
+  ],
+  "promoTypes": [
+    "boosterfun"
+  ],
+  "purchaseUrls": {
+    "cardmarket": "https://mtgjson.com/links/8240b104bc90ae59",
+    "tcgplayer": "https://mtgjson.com/links/ecd5f7053c30e907"
+  },
+  "rarity": "uncommon",
+  "rulings": [
+    {
+      "date": "2021-06-18",
+      "text": "A spell with aftermath cast from a graveyard will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "All split cards have two card faces on a single card, and you put a split card onto the stack with only the half you're casting. The characteristics of the half you didn't cast are ignored while the spell is on the stack. For example, if an effect prevents you from casting red spells, you can cast Road, but not Ruin."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card has two names. If an effect instructs you to choose a card name, you may choose one, but not both."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Each split card is a single card. For example, if you discard one, you've discarded one card, not two. If an effect counts the number of instant and sorcery cards in your graveyard, Road /// Ruin counts once, not twice."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from a graveyard, you may cast either half. If you cast the half that has aftermath, you'll exile the card if it would leave the stack."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If another effect allows you to cast a split card with aftermath from any zone other than a graveyard, you can't cast the half with aftermath."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "If you cast the first half of a split card with aftermath during your turn, you'll have priority immediately after it resolves. You can cast the half with aftermath from your graveyard before any player can take any other action if it's legal for you to do so."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "Once you've started to cast a spell with aftermath from your graveyard, the card is immediately moved to the stack. Opponents can't try to stop the ability by exiling the card with another effect."
+    },
+    {
+      "date": "2021-06-18",
+      "text": "While not on the stack, the characteristics of a split card are the combination of its two halves. For example, Road /// Ruin is a green and red card, it is both an instant card and a sorcery card, and its mana value is 6."
+    }
+  ],
+  "setCode": "MH2",
+  "side": "b",
+  "subtypes": [],
+  "supertypes": [],
+  "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nRuin deals damage to target creature equal to the number of lands you control.",
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "uuid": "28d5a9ff-b2ec-5d4b-9ae5-8ab1bff853d0",
+  "variations": [
+    "32f25efe-29ab-5926-a6e8-ebe09c8c26cc"
+  ]
+}

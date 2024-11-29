@@ -1,0 +1,143 @@
+{"meta": {"date": "2024-11-17", "version": "5.2.2+20241117"},
+ "data": {"Fire // Ice": [
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "colors": [
+      "R"
+    ],
+    "convertedManaCost": 4.0,
+    "edhrecRank": 9886,
+    "faceConvertedManaCost": 2.0,
+    "faceManaValue": 2.0,
+    "faceName": "Fire",
+    "firstPrinting": "APC",
+    "foreignData": [
+      {
+        "faceName": "火",
+        "language": "Japanese",
+        "name": "火 // 氷",
+        "text": "クリーチャーやプレイヤーを、１つまたは望む組み合わせで２つ対象とする。火はそれらに、２点のダメージをあなたの好きなように分割して与える。",
+        "type": "インスタント"
+      }
+    ],
+    "identifiers": {
+      "scryfallOracleId": "ae92942b-919c-4ea9-b693-85fcef765d5a"
+    },
+    "layout": "split",
+    "legalities": {
+      "commander": "Legal",
+      "duel": "Legal",
+      "legacy": "Legal",
+      "modern": "Legal",
+      "oathbreaker": "Legal",
+      "pauper": "Legal",
+      "paupercommander": "Legal",
+      "predh": "Legal",
+      "premodern": "Legal",
+      "vintage": "Legal"
+    },
+    "manaCost": "{1}{R}",
+    "manaValue": 4.0,
+    "name": "Fire // Ice",
+    "printings": [
+      "APC",
+      "CMD",
+      "DDJ",
+      "DMR",
+      "F06",
+      "MH2",
+      "PLST",
+      "PRM",
+      "UMA",
+      "WC01",
+      "WC02"
+    ],
+    "purchaseUrls": {
+      "cardKingdom": "https://mtgjson.com/links/6bfb9c43936dafb0",
+      "cardKingdomFoil": "https://mtgjson.com/links/8a4a622123c08f34",
+      "cardmarket": "https://mtgjson.com/links/6c55c319c716d510",
+      "tcgplayer": "https://mtgjson.com/links/4ecd0ca97e2b47fb"
+    },
+    "side": "a",
+    "subtypes": [],
+    "supertypes": [],
+    "text": "Fire deals 2 damage divided as you choose among one or two targets.",
+    "type": "Instant",
+    "types": [
+      "Instant"
+    ]
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "colors": [
+      "U"
+    ],
+    "convertedManaCost": 4.0,
+    "edhrecRank": 9886,
+    "faceConvertedManaCost": 2.0,
+    "faceManaValue": 2.0,
+    "faceName": "Ice",
+    "firstPrinting": "APC",
+    "foreignData": [
+      {
+        "faceName": "氷",
+        "language": "Japanese",
+        "name": "火 // 氷",
+        "text": "パーマネント１つを対象とし、それをタップする。カードを１枚引く。",
+        "type": "インスタント"
+      }
+    ],
+    "identifiers": {
+      "scryfallOracleId": "ae92942b-919c-4ea9-b693-85fcef765d5a"
+    },
+    "layout": "split",
+    "legalities": {
+      "commander": "Legal",
+      "duel": "Legal",
+      "legacy": "Legal",
+      "modern": "Legal",
+      "oathbreaker": "Legal",
+      "pauper": "Legal",
+      "paupercommander": "Legal",
+      "predh": "Legal",
+      "premodern": "Legal",
+      "vintage": "Legal"
+    },
+    "manaCost": "{1}{U}",
+    "manaValue": 4.0,
+    "name": "Fire // Ice",
+    "printings": [
+      "APC",
+      "CMD",
+      "DDJ",
+      "DMR",
+      "F06",
+      "MH2",
+      "PLST",
+      "PRM",
+      "UMA",
+      "WC01",
+      "WC02"
+    ],
+    "purchaseUrls": {
+      "cardmarket": "https://mtgjson.com/links/9a1e67d079754bfa",
+      "tcgplayer": "https://mtgjson.com/links/617507029e7ff16b"
+    },
+    "side": "b",
+    "subtypes": [],
+    "supertypes": [],
+    "text": "Tap target permanent.\nDraw a card.",
+    "type": "Instant",
+    "types": [
+      "Instant"
+    ]
+  }
+]
+}
+}
